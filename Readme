@@ -1,5 +1,5 @@
-Step 1: Save the brokenhell.py in your required folder
+Step 1: git clone https://github.com/Sidk129/Brokenhell.git
 Step 2: Run the file using the command 
-        python3 brokenhell.py https://putyourURLhere.whatever -o path to your output file
-If you are using Raw data like in file then use this
-        python3 brokenhell.py -f Path to your required file -o path to your output file
+    >>> python3 brokenhell.py https://putyourURLhere.whatever -o path to your output file
+If you are using Raw data like in a file then use this
+    >>> python3 brokenhell.py -f Path to your required file -o path to your output file
