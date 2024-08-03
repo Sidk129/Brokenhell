@@ -1,5 +1,12 @@
+For brokenhell.py
 Step 1: git clone https://github.com/Sidk129/Brokenhell.git
 Step 2: Run the file using the command 
     >>> python3 brokenhell.py https://putyourURLhere.whatever -o path to your output file
 If you are using Raw data like in a file then use this
     >>> python3 brokenhell.py -f Path to your required file -o path to your output file
+
+For brokenfilter.py
+While Using change the file_path to your targeted file and output_file_path to get the output file example:
+file_path = '/home/kali/example,txt'
+output_file_path = '/home/kali/example.csv'
+
